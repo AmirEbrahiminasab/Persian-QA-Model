@@ -188,6 +188,24 @@ This will output performance metrics across subsets (has/no answer, long/short a
 
 ---
 
+## 🧪 Try It Online
+
+You can interact with our best fine-tuned model using the Hugging Face Space below:
+
+🔗 [Persian QA Chatbot – Hugging Face Space](https://huggingface.co/spaces/AmoooEBI/Persian-QA-Chatbot)
+
+---
+
+## 📦 Pretrained Models
+
+* **XLM-RoBERTa Fine-Tuned on PersianQA**:
+  🔗 [https://huggingface.co/AmoooEBI/xlm-roberta-fa-qa-finetuned-on-PersianQA](https://huggingface.co/AmoooEBI/xlm-roberta-fa-qa-finetuned-on-PersianQA)
+
+* **ParsBERT Fine-Tuned on PersianQA**:
+  🔗 [https://huggingface.co/AmoooEBI/Bert-fa-qa-finetuned-on-PersianQA](https://huggingface.co/AmoooEBI/Bert-fa-qa-finetuned-on-PersianQA)
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
