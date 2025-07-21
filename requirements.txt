@@ -1,0 +1,8 @@
+datasets==2.14.0
+evaluate==0.4.5
+fsspec==2023.6.0
+torch
+transformers
+peft
+numpy
+tqdm
